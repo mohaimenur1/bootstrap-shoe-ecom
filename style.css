@@ -1,0 +1,20 @@
+/**
+ * /* Global Styling
+ *
+ * @format
+ */
+
+:root {
+  --banner-text-color-1: #fa804c;
+  --banner-text-color-2: #10102c;
+}
+
+/* Banner Styling */
+
+.banner-text-1 {
+  color: var(--banner-text-color-1);
+}
+
+.banner-text-2 {
+  color: var(--banner-text-color-2);
+}
